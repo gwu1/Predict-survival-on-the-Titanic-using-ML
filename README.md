@@ -15,7 +15,7 @@ Both files can be downloaded from the Kaggle competition website: [Titanic: Mach
 
 The following dependencies are required to run the code:
 
-- Python 3
+- Python 3.7+
 - pandas
 - numpy
 - scikit-learn
